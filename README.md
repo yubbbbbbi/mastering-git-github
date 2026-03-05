@@ -4,4 +4,4 @@
 
 ### 학습 기록
 공부 과정은 아래 노션 페이지에서 확인할 수 있습니다.
-👉 [노션 페이지 바로가기](https://www.notion.so/24eded1a3fdd80e988ace47daf46bc4f)
+👉 [노션 페이지 바로가기]([https://www.notion.so/24eded1a3fdd80e988ace47daf46bc4f](https://www.notion.so/24eded1a3fdd80e988ace47daf46bc4f?source=copy_link))
